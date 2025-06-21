@@ -5,9 +5,8 @@
 Aspiring software engineer passionate about developing technical skills and solving real-world problems through continuous learning and hands-on experience. I enjoy building applications that make a difference and exploring new technologies.
 
 - 🔭 Currently working on **Full Stack Web Applications**
-- 🌱 Learning **Advanced React and Node.js**
+- 🌱 Learning **React and Node.js**
 - 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **MERN Stack, Android Development, Game Design**
 - 📫 Reach me at: **sharveshselvaa@gmail.com**
 
 ## 🛠️ Tech Stack
@@ -44,17 +43,8 @@ Aspiring software engineer passionate about developing technical skills and solv
 - Engaging 2.5D beat 'em up experience
 - **Stack:** Unreal Engine, Blueprint Visual Scripting
 
-## 🏆 Certifications
-
-- **RPA Citizen Developer Foundation** - UiPath (2023)
-- **Microsoft Machine Learning Challenge** (2023)
-- **Google Cloud Computing Certificate** (2023)
-- **Google Gen-AI Prompt Engineering** (2023)
 
 ## 🤝 Let's Connect
 
-[LinkedIn](https://linkedin.com/in/sharvesh-s) • [Email](mailto:sharveshselvaa@gmail.com) • [Portfolio](https://sharvesh.github.io)
+[LinkedIn](https://www.linkedin.com/in/sharvesh-selvaraj-397b941ba/) • [Email](mailto:sharveshselvaa@gmail.com) 
 
----
-
-*Building solutions, one line of code at a time* ⚡
