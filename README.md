@@ -48,6 +48,4 @@ Aspiring software engineer passionate about developing technical skills and solv
 [LinkedIn](https://www.linkedin.com/in/sharvesh-selvaraj-397b941ba/) • [Email](mailto:sharveshselvaa@gmail.com) 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
 
