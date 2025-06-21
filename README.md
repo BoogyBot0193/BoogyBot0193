@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Aspiring software engineer passionate about developing technical skills and solving real-world problems through continuous learning and hands-on experience. I enjoy building applications that make a difference and exploring new technologies.
+Aspiring software engineer passionate about developing technical skills and solving real-world problems through continuous learning and hands-on experience. I enjoy building projects and exploring new technologies.
 
 - 🔭 Currently working on **Full Stack Web Applications**
 - 🌱 Learning **React and Node.js**
