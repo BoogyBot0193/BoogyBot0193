@@ -25,10 +25,9 @@ Aspiring software engineer passionate about developing technical skills and solv
 
 ## 🎯 Featured Projects
 
-### 🌐 BlogWeb - Blog Management System
-**MERN Stack | AI Integration**
-- Comprehensive blog management with AI-powered content suggestions
-- Full CRUD operations with modern React frontend
+### 📚 EduPortal - Assignment Submission Portal
+**MERN Stack**
+- Designed and developed a comprehensive assignment submission portal using the MERN stack
 - **Stack:** MongoDB, Express.js, React, Node.js
 
 ### 📱 TimeBloc - Daily Planner App
