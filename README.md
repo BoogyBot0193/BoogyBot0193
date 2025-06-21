@@ -4,7 +4,7 @@
 
 Aspiring software engineer passionate about developing technical skills and solving real-world problems through continuous learning and hands-on experience. I enjoy building projects and exploring new technologies.
 
-- 🔭 Currently working on **Full Stack Web Applications**
+- 🔭 Currently working on **Front-End Applications**
 - 🌱 Learning **React and Node.js**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 📫 Reach me at: **sharveshselvaa@gmail.com**
