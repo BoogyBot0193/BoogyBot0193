@@ -23,7 +23,7 @@ Aspiring software engineer passionate about developing technical skills and solv
 
 **Tools:** Git • VS Code • Android Studio
 
-## 🎯 Featured Projects
+## 🎯 Projects
 
 ### 📚 EduPortal - Assignment Submission Portal
 **MERN Stack**
